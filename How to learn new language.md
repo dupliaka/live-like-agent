@@ -10,7 +10,7 @@ The brain is a quite flexible thing,
 so lets look on some known facts about it and try to use them for our 
 purpose:
 
-<H3>1. Use it or loose it
+<H3>1. Use it or loose it<H3>
 
 Our brain has two interesting abilities: synaptic prooning and 
 synaptic flexibility. The first one optimize synaptic connections,
@@ -43,7 +43,7 @@ from another. Some time it would be more like "blvkrky" but train
 for a while and you will know how to split it. But the main point is to
 do that regularly.
 
-<H3>2. Learn sleep repeat
+<H3>2. Learn sleep repeat<H3>
 
 During night our brain systematize all the stuff we got during the day,
 so the better approach is to learn something new just before falling 
@@ -68,7 +68,7 @@ grammar paragraph you split it on the themas and simplify it. If that is
 a difficult definition you make some logical 
 connections change it for conciseness to pack it in your brain.
 
-<H3>3. Write it
+<H3>3. Write it<H3>
 
 Lets talk a bit about Fusiform gyrus. That is a part of our brain that
 is responsible for translation visual stimulus to characters and words.
@@ -94,7 +94,7 @@ get some ideas of words that I need in my daily life.
 Plus addition articulation that is engaged when ai do so will mark up the 
 accuracy and give more attention to grammar I never used before.
         
-<H3>4. Fake it till you make it
+<H3>4. Fake it till you make it<H3>
 
 Human brain contain some special neurons called mirror neurons. 
 By mimicking others, you train it. You absorb the culture 

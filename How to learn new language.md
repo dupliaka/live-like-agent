@@ -130,7 +130,7 @@ develop they articulation.
  trying to  decrease amount of mistakes as much as
  possible and keep practicing using the most powerful instrument 
  we ever could get will definitely lead as to systematic accumulation 
- and reinforcement of our language skill. 
+ and reinforcement of our language pills. 
      
  
  
